@@ -5,12 +5,12 @@ These above folders are related to my internship tasks for The Sparks Foundation
 As Data Science and Business Analytics Intern Task-1 (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day.
 
 ### My Youtube Channel Link (for this task) : https://youtu.be/5JEePpmqP1M
-### My LinkedIn Post Link (for this task) :
+### My LinkedIn Post Link (for this task) :  https://www.linkedin.com/posts/deepak-kaura-66a903162_datascience-dataanalysis-businessanalytics-activity-6753958271968702464-WFj0
 
 # Task 2 - Predicting-Iris-Flower-Species-With-Clustering-in-Python
 As Data Science and Business Analytics Intern Task-2 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 ### My Youtube Channel Link (for this task) : https://youtu.be/lq_iYyrrzsY
-### My LinkedIn Post Link (for this task) :
+### My LinkedIn Post Link (for this task) :  
 
 # Task 3 - Exploratory Data Analysis - Retail
 As Data Science and Business Analytics Intern Task-3 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
