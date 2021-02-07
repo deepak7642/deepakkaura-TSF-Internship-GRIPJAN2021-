@@ -1,5 +1,5 @@
 # The Sparks Fpundation(TSF) Internship- GRIPJAN21
-These above folders are related to my internship tasks for The Sparks Foundation(TSF) as Data Analysis and Business Analytics Intern
+These above folders are related to my internship tasks for The Sparks Foundation(TSF) as Data Science and Business Analytics Intern
 
 # Task 1 - Prediction-using-Supervised-ML
 As Data Science and Business Analytics Intern Task-1 (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day.
@@ -8,12 +8,12 @@ As Data Science and Business Analytics Intern Task-1 (Predict the percentage of 
 ### My LinkedIn Post Link (for this task) :
 
 # Task 2 - Predicting-Iris-Flower-Species-With-Clustering-in-Python
-As Data Analysis and Business Analytics Intern Task-2 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+As Data Science and Business Analytics Intern Task-2 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 ### My Youtube Channel Link (for this task) : https://youtu.be/lq_iYyrrzsY
 ### My LinkedIn Post Link (for this task) :
 
 # Task 3 - Exploratory Data Analysis - Retail
-As Data Analysis and Business Analytics Intern Task-3 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+As Data Science and Business Analytics Intern Task-3 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
 ● As a business manager, try to find out the weak areas where you can work to make more profit.
 
@@ -23,7 +23,7 @@ As Data Analysis and Business Analytics Intern Task-3 Perform ‘Exploratory Dat
 ### My LinkedIn Post Link (for this task) :
 
 # Task 4 - Exploratory Data Analysis - Terrorism
-As Data Analysis and Business Analytics Intern Task-4 Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+As Data Science and Business Analytics Intern Task-4 Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
 ● As a security/defense analyst, try to find out the hot zone of terrorism.
 
@@ -34,21 +34,21 @@ As Data Analysis and Business Analytics Intern Task-4 Perform ‘Exploratory Dat
 ### My LinkedIn Post Link (for this task) :
 
 # Task 5 - Exploratory Data Analysis - Sports
-As Data Analysis and Business Analytics Intern task 5 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+As Data Science and Business Analytics Intern task 5 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
 ● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 ### My Youtube Channel Link (for this task) : https://youtu.be/nGRuUcyKlxg
 ### My LinkedIn Post Link (for this task) :
 
 # Task 6 - Prediction using Decision Tree Algorithm
-As Data Analysis and Business Analytics Intern Task-6 Create the Decision Tree classifier and visualize it graphically.
+As Data Science and Business Analytics Intern Task-6 Create the Decision Tree classifier and visualize it graphically.
 
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 ### My Youtube Channel Link (for this task) : https://youtu.be/lAQ7RP1MNrM
 ### My LinkedIn Post Link (for this task) :
 
 # Task 7 - Stock Market Prediction using Numerical and Textual Analysis
-As Data Analysis and Business Analytics Intern Task-7 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
+As Data Science and Business Analytics Intern Task-7 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
 
 Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
 
@@ -57,6 +57,6 @@ Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
 ### My LinkedIn Post Link (for this task) :
 
 # Task 8 - Timeline Analysis : Covid-19
-As Data Analysis and Business Analytics Intern Task-8 Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc)
+As Data Science and Business Analytics Intern Task-8 Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc)
 ### My Youtube Channel Link (for this task) : https://youtu.be/aZut2QRQpn8
 ### My LinkedIn Post Link (for this task) :
