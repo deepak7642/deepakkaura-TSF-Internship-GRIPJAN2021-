@@ -1,4 +1,4 @@
-# The Sparks Fpundation(TSF) Internship- GRIPJAN21
+# The Sparks Foundation(TSF) Internship- GRIPJAN21
 These above folders are related to my internship tasks for The Sparks Foundation(TSF) as Data Science and Business Analytics Intern
 
 # Task 1 - Prediction-using-Supervised-ML
