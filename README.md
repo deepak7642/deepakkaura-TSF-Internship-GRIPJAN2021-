@@ -60,3 +60,5 @@ Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
 As Data Science and Business Analytics Intern Task-8 Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc)
 ### My Youtube Channel Link (for this task) : https://youtu.be/aZut2QRQpn8
 #### My LinkedIn Post Link (for this task) :  https://www.linkedin.com/posts/deepak-kaura-66a903162_tsf-machinelearning-datascience-activity-6754689842505932801-t4br
+
+#### Your feedbacks are always welcome they means alot to me and they will help me for improvisation !!!!!
